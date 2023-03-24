@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://camo.githubusercontent.com/890f8aa2c9cb570f21a5f769ecd0fe0c8b9e4e1b0d64fece09b8cd81615c3e45/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176617363726970742d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074
+🔭:laughing:
 
 <!--
 **xytorenok/xytorenok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
