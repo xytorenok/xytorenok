@@ -1,5 +1,5 @@
 
-![JS](https://img.shields.io/badge/-Css-404040?style=for-the-badge&logo=git)
+![image](https://img.shields.io/badge/-Css-404040?style=for-the-badge&logo=git)
 
 
 
