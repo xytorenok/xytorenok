@@ -1,8 +1,9 @@
 
-![image](https://img.shields.io/badge/-Css-404040?style=for-the-badge&logo=git)
-
-
-
+![image](https://img.shields.io/badge/-css-404040?style=for-the-badge&logo=css3)
+![image](https://img.shields.io/badge/-html-404040?style=for-the-badge&logo=html5)
+![image](https://img.shields.io/badge/-javascript-404040?style=for-the-badge&logo=javascript)
+![image](https://img.shields.io/badge/-git-404040?style=for-the-badge&logo=git)
+![image](https://img.shields.io/badge/-sass-404040?style=for-the-badge&logo=sass)
 
 <!--
 **xytorenok/xytorenok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
