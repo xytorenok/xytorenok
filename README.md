@@ -10,7 +10,7 @@
 ## games
   - ["Haager Prozess"](https://xytorenok.github.io/welcometohague)
 ## mini-projects
-  - [Compliment creator - API](xytorenok.github.io/compliment-api)
+  - [Compliment creator - API](https://xytorenok.github.io/compliment-api)
 
 <!--
 **xytorenok/xytorenok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
