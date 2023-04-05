@@ -8,7 +8,7 @@
 
 ### 🔭 My projects 
 ## games
-  - ["Haager Prozess"](https://xytorenok.github.io/welcometohague) [code](https://github.com/xytorenok/compliment-api)
+  - ["Haager Prozess"](https://xytorenok.github.io/welcometohague)      [see code](https://github.com/xytorenok/compliment-api)
 ## mini-projects
   - [Compliment creator - API](https://xytorenok.github.io/compliment-api)
 
