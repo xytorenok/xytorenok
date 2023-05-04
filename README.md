@@ -7,6 +7,8 @@
 
 
 ### 🔭 My projects 
+## app
+  - [To do list](https://xytorenok.github.io/mytodo) &nbsp; &nbsp; &nbsp; [see code](https://github.com/xytorenok/mytodo)
 ## games
   - ["Haager Prozess"](https://xytorenok.github.io/welcometohague) &nbsp; &nbsp; &nbsp; [see code](https://github.com/xytorenok/welcometohague)
 ## mini-projects
