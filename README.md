@@ -24,6 +24,11 @@
 - [Сorporate gifts website](https://xytorenok.github.io/09-Darimo-grey) &nbsp; &nbsp; &nbsp; [see code](https://github.com/xytorenok/09-Darimo-grey)
 - [Vitamin manufacturer website](https://xytorenok.github.io/vitamin-site) &nbsp; &nbsp; &nbsp; [see code](https://github.com/xytorenok/vitamin-site)
 
+## abandoned projects for which I'm not ashamed
+
+- [Gym website](https://xytorenok.github.io/fitnes) &nbsp; &nbsp; &nbsp; [see code](https://github.com/xytorenok/fitnes)
+- [Repair masters wesite](https://xytorenok.github.io/repair-fixed) &nbsp; &nbsp; &nbsp; [see code]](https://github.com/xytorenok/repair-fixed)
+
 
 <!--
 **xytorenok/xytorenok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
