@@ -27,7 +27,7 @@
 ## abandoned projects for which I'm not ashamed
 
 - [Gym website](https://xytorenok.github.io/fitnes) &nbsp; &nbsp; &nbsp; [see code](https://github.com/xytorenok/fitnes)
-- [Repair masters wesite](https://xytorenok.github.io/repair-fixed) &nbsp; &nbsp; &nbsp; [see code]](https://github.com/xytorenok/repair-fixed)
+- [Repair masters wesite](https://xytorenok.github.io/repair-fixed) &nbsp; &nbsp; &nbsp; [see code](https://github.com/xytorenok/repair-fixed)
 
 
 <!--
