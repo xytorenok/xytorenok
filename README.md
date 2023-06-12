@@ -11,6 +11,9 @@
   - [To do list](https://xytorenok.github.io/mytodo) &nbsp; &nbsp; &nbsp; [see code](https://github.com/xytorenok/mytodo)
 ## games
   - ["Haager Prozess"](https://xytorenok.github.io/welcometohague) &nbsp; &nbsp; &nbsp; [see code](https://github.com/xytorenok/welcometohague)
+  - ["Agent Drozd"](https://xytorenok.github.io/agent-drozd) &nbsp; &nbsp; &nbsp; [see code](https://github.com/xytorenok/agent-drozd)
+
+
 ## mini-projects
   - [Compliment creator - API](https://xytorenok.github.io/compliment-api) &nbsp; &nbsp; &nbsp; [see code](https://github.com/xytorenok/compliment-api)
   - [Phone browser emulator](https://xytorenok.github.io/phone-browser-emulator) &nbsp; &nbsp; &nbsp; [see code](https://github.com/xytorenok/phone-browser-emulator)
