@@ -18,7 +18,8 @@
 
 ## sites
 
-- [Compliment creator - API](https://xytorenok.github.io/09-Darimo-grey) &nbsp; &nbsp; &nbsp; [see code](https://github.com/xytorenok/09-Darimo-grey)
+- [Сorporate gifts website](https://xytorenok.github.io/09-Darimo-grey) &nbsp; &nbsp; &nbsp; [see code](https://github.com/xytorenok/09-Darimo-grey)
+- [Vitamin manufacturer website](https://xytorenok.github.io/vitamin-site) &nbsp; &nbsp; &nbsp; [see code](https://github.com/xytorenok/vitamin-site)
 
 
 <!--
