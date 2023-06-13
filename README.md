@@ -5,6 +5,7 @@
 ![image](https://img.shields.io/badge/-git-404040?style=for-the-badge&logo=git)
 ![image](https://img.shields.io/badge/-sass-404040?style=for-the-badge&logo=sass)
 
+хочешь связаться со мной?
 
 ### 🔭 My projects 
 ## app
